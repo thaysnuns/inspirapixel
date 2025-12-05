@@ -14,6 +14,9 @@ import Card from "./Card.vue";
     <Card
       imagem="https://www.publicdomainpictures.net/pictures/280000/nahled/night-landscape-1546338197B2k.jpg"
     />
+    <Card
+      imagem="https://www.publicdomainpictures.net/pictures/280000/nahled/night-landscape-1546338197B2k.jpg"
+    />
   </section>
 </template>
 
