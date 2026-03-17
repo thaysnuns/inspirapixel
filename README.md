@@ -1,4 +1,6 @@
-# Trabalho referente ao curso Desenvolvimento WEB do Vai Na Web
+# 👩‍💻 +1 Desafio!
+Este projeto é referente ao Desafio Final do módulo 2 (Frameworks e Consumo de
+APIs) do curso de Desenvolvimento WEB do Vai Na Web com L'oreal Groupe
 
 ## 🧠 O Desafio
 "A InspirePixel quer desenvolver uma plataforma onde o usuário consiga encontrar inspiração visual de forma rápida e organizada."
