@@ -17,6 +17,14 @@ O layout responsivo.
 
 Hospedado na Vercel.
 
+## ✏️ Deploy 
+```bash
+  https://cine-vnw.vercel.app/
+```
+## 🫂 Autores
+
+[@Thayná Nunes](https://github.com/thaysnuns)
+
 
 ## Vue 3 + Vite
 
