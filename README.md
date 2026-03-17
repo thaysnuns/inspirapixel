@@ -9,19 +9,24 @@ A missão foi desenvolver uma página web funcional que apresente uma solução 
 Foi utilizado um protótipo proposto no Figma como referência.
 
 ## 🧰 Requisitos Técnicos
-Desenvolvido com Vue.js, Axios e SASS (SCSS).
+* Desenvolvido com Vue.js, Axios e SASS (SCSS)
 
-API de imagens (Lorem Picsum).
+* API de imagens (Lorem Picsum)
 
-O layout responsivo.
+* Layout responsivo
 
-Hospedado na Vercel.
+* Hospedado na Vercel
 
 ## ✏️ Deploy 
 
 ```bash
-  https://inspirapixel-ju7v.vercel.app/
+  https://inspirapixel-blue.vercel.app/
 ```
+
+## ✨ Visão Inicial
+
+<img width="1350" height="594" alt="image" src="https://github.com/user-attachments/assets/fecbf4db-ee3b-470d-99cb-5637bea9e1f9" />
+
 
 ## Vue 3 + Vite
 
