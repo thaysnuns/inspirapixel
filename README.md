@@ -40,7 +40,8 @@ O layout foi desenvolvido a partir de um protótipo no **Figma**, com liberdade 
 
 | Versão Desktop | Versão Mobile |
 |----------------|---------------|
-|<img width="704" height="440" alt="image desktop version" src="https://github.com/user-attachments/assets/977208d6-5da8-4d20-9ebc-77b1ca3a4c3d" />| Em processo... |
+|<img width="704" height="440" alt="image desktop version" src="https://github.com/user-attachments/assets/48c64023-9b8a-4a06-9fa9-dbc79d7327f0" />| Em processo... |
+
 ---
 
 ## Vue 3 + Vite
