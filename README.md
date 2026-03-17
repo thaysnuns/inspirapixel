@@ -2,11 +2,14 @@
 Este projeto é referente ao Desafio Final do módulo 2 (Frameworks e Consumo de
 APIs) do curso de Desenvolvimento WEB do Vai Na Web com L'oreal Groupe
 
+---
+
 ## 🧠 O Desafio
 "A InspirePixel quer desenvolver uma plataforma onde o usuário consiga encontrar inspiração visual de forma rápida e organizada."
 
 A missão foi desenvolver uma página web funcional que apresente uma solução moderna e intuitiva para esse problema. 
-Foi utilizado um protótipo proposto no Figma como referência.
+
+---
 
 ## 🧰 Requisitos Técnicos
 * Desenvolvido com Vue.js, Axios e SASS (SCSS)
@@ -17,22 +20,35 @@ Foi utilizado um protótipo proposto no Figma como referência.
 
 * Hospedado na Vercel
 
+---
+
+## 🎨 Design  
+
+O layout foi desenvolvido a partir de um protótipo no **Figma**, com liberdade criativa para ajustes e aprimoramentos no estilo visual.
+
+---
+
 ## ✏️ Deploy 
 
 ```bash
   https://inspirapixel-blue.vercel.app/
 ```
 
-## ✨ Visão Inicial
+---
+
+## 🖼️ Prévia
 
 <img width="1350" height="594" alt="image" src="https://github.com/user-attachments/assets/fecbf4db-ee3b-470d-99cb-5637bea9e1f9" />
 
+---
 
 ## Vue 3 + Vite
 
 This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
 Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+
+---
 
 ## 🫂 Autores
 
